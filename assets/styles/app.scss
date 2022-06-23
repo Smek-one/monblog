@@ -1,0 +1,60 @@
+@import "~bootstrap/scss/bootstrap";
+
+body{
+  background-color: #A5BECC;
+}
+
+//NAVBAR
+
+.navbar{
+  background-color: #243A73 !important;
+}
+
+.dropdown-item{
+  color: #243A73 !important;
+}
+
+.dropdown-item:hover{
+  color: #A5BECC !important;
+  background-color: #243A73 !important;
+}
+
+
+
+//LOGO
+#logo{
+  display: block;
+  margin: 5vh auto;
+  width: 30%;
+}
+
+//CONTACT PAGE
+form{
+  margin-top: 5vh;
+}
+.btn{
+  display: block;
+  margin: auto;
+  background-color:#243A73 !important;
+  color: #A5BECC !important;
+  border: none !important;
+}
+
+h2{
+  color: #F2EBE9;
+  text-align: center;
+}
+
+//INDEX PAGE
+
+.card{
+  background: #7C3E66;
+  color: #A5BECC;
+  border-radius: 20px;
+  width: 50rem;
+}
+
+h6{
+  color: #243A73;
+  font-weight: 400;
+}
